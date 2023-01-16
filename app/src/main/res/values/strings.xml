@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Nonton Movie 9</string>
+    <string name="app_title_movie">MOVIE</string>
+    <string name="app_title_tvshow">TV SHOW</string>
+    <string name="app_title_profile">PROFILE</string>
+
+    <!--  Movies Name  -->
+    <string name="movie_name_1">"Black Panther: Wakanda Forever"</string>
+    <string name="movie_name_2">"Avatar: The Way of Water"</string>
+    <string name="movie_name_3">"Train to Busan"</string>
+    <string name="movie_name_4">"Midnight Runners"</string>
+    <string name="movie_name_5">"John Wick 3: Parabellum"</string>
+    <string name="movie_name_6">"The Medium"</string>
+
+    <!--  Movies Detail  -->
+    <string name="movie_detail_1">"Kerajaan Wakanda tengah dilanda suasana duka usai kehilangan sosok raja mereka yaitu T'Challa (Chadwick Boseman). Momen duka tersebut justru berusaha dimanfaatkan oleh negara-negara lain yang ingin mencampuri urusan Wakanda. Ratu Ramonda (Angela Bassett), Shuri (Letitia Wright), M'Baku (Winston Duke), Okoye (Danai Gurira), dan para rakyat Wakanda kemudian harus bekerja keras untuk menyatukan seisi Wakanda demi melindungi negara mereka. Film ini amat dinanti-nantikan banyak orang, terutama penggila Marvel Cinematic Universe (MCU) usai pemeran utama film ini, Chadwick Boseman meninggal dunia pada Agustus 2020 silam. Lantas, bagaimana Marvel meracik film ini tanpa Chadwick Boseman?"</string>
+    <string name="movie_detail_2">"Film garapan sutradara James Cameron ini adalah kelanjutan dari cerita dari Film Avatar sebelumnya yang dirilis tahun 2009. Di film keduanya ini bercerita tentang Jake Sully dan Ney'tiri yang telah membentuk sebuah keluarga dan melakukan segalanya untuk tetap bersama. Namun, mereka harus meninggalkan rumah dan menjelajahi wilayah Pandora. Ketika ancaman kuno muncul kembali, Jake harus berperang melawan manusia."</string>
+    <string name="movie_detail_3">Sebuah film hantu seru bertema bencana mayat hidup asal Korea tahun 2016 yang disutradarai oleh Yeon Sang-ho dan dibintangi oleh Gong Yoo, Jung Yu-mi dan Ma Dong-seok.</string>
+    <string name="movie_detail_4">Mengisahkan tentang aksi 2 siswa akademi kepolisian yang nekat menyelamatkan seorang gadis korban penculikan. Adalah dua sahabat yang berbeda latar belakang, yakni Hwang Ki-joon, diperankan oleh Park Seo Joon, dan Kang Hee-yeol, diperankan oleh Kang Ha-neul.</string>
+    <string name="movie_detail_5">Seri ketiga "John Wick" ini akan mengisahkan kelanjutan nasib si pembunuh bayaran usai menghabisi nyawa anggota High Table dalam The Continental. Ia sendiri diburu dan hidupnya dihargai sebesar USD 14 juta (sekitar Rp 201 miliar). Diburu oleh berbagai pembunuh bayaran hebat, John akan dibantu oleh karakter baru yang misterius bernama Sofia (Halle Berry).</string>
+    <string name="movie_detail_6">" Saat tim dokumenter mengikuti Nim seorang dukun di daerah Isan - Thailand Utara mereka bertemu dengan keponakannya bernama Mink yang menunjukkan gejala aneh. Nampaknya Mink akan mewarisi bakat dukun dari keturunan keluarga mereka."</string>
+
+    <!--  TV Shows Name  -->
+    <string name="tvshow_name_1">"Money Heist"</string>
+    <string name="tvshow_name_2">"The Queen's Gambit"</string>
+    <string name="tvshow_name_3">"Moon Knight"</string>
+    <string name="tvshow_name_4">"Itaewon Class"</string>
+    <string name="tvshow_name_5">"What's Wrong with Secretary Kim"</string>
+    <string name="tvshow_name_6">"Fight For My Way"</string>
+
+    <!--  TV Shows Detail  -->
+    <string name="tvshow_detail_1">"Serial drama ini menceritakan sekelompok kriminal yang hendak merampok sebuah otoritas pencetakan uang di Spanyol. Kelompok ini dikendalikan seorang sosok tanpa identitas yang dikenal bernama The Professor. Dia merekrut orang-orang dari berbagai latar belakang kriminal, dengan kemampuan khusus."</string>
+    <string name="tvshow_detail_2">"The Queen's Gambit menceritakan tentang seorang anak yatim piatu jenius catur, Beth Harmon, dalam usahanya menjadi pemain catur terhebat di dunia. Di sisi lain dia juga berjuang mengatasi ketergantungannya pada obat dan alkohol. Judul mini seri ini mengacu pada pembukaan catur dengan nama yang sama."</string>
+    <string name="tvshow_detail_3">"Moon Knight sendiri berkisah tentang seorang pegawai museum bernama Steven Grant yang terbawa ke dalam sebuah konspirasi dewa-dewa Mesir saat dirinya melihat kejanggalan di kehidupan sehari-harinya, seperti penemuan identitas alter egonya, Marc Spector yang bekerja di bawah dewa Khonshu."</string>
+    <string name="tvshow_detail_4">"Menceritakan tentang kisah hidup Park Sae Ro Yi (Park Seo Joon). Di masa SMA ia pernah terlibat perkelahian dengan Geun Won (Ahn Bo Hyun). Tak beruntung, Sae Ro Yi memukul teman sekelasnya yang merupakan anak dari seorang CEO bernama Jang Dae Hee (Yoo Jae Myung)"</string>
+    <string name="tvshow_detail_5">"Sebuah drama Korea yang menyorot hubungan antara bos dan sekretarisnya. Dikisahkan, Kim Mi So (Park Min Young) yang memutuskan untuk mengundurkan diri secara tiba-tiba. Mengetahui hal itu, Lee Young Joo (Park Seo Joon) tentu tak bisa menerima keputusannya begitu saja."</string>
+    <string name="tvshow_detail_6">"Menceritakan tentang empat sekawan yang tidak unggul yang berjuang demi impiannya untuk bertahan hidup. Ko Dong Man (Park Seo Joon) adalah seorang pemain taekwondo yang dulunya terkenal namun harus berhenti karena masa lalu yang menyakitkan."</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_movie">MOVIE</string>
+    <string name="fragment_tv_show">TV SHOW</string>
+    <string name="fragment_profile">PROFILE</string>
+    <string name="data">Rhesna A S</string>
+
+
+</resources>
